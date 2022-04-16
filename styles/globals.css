@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+ @font-face{
+    font-family:'neptune';
+    src:url('/fonts/Neptune.otf');
+ }
+ @layer base{
+  html{
+    @apply font-neptune;
+  } 
+}
