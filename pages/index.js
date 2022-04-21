@@ -4,6 +4,8 @@ import Footer from '../Components/Footer/Footer'
 import Navbar from '../Components/Navbar/Navbar'
 import styles from '../styles/Home.module.css'
 import Like from '../Components/Like/Like';
+import Dashboard from '../Components/Dashboard/Dashboard'
+import Killswitch from '../Components/Killswitch/Killswitch'
 
 
 export default function Home() {
@@ -12,7 +14,9 @@ export default function Home() {
     <div>
       <Like></Like>
       <Navbar></Navbar>
-      <Footer></Footer>
+      {/* <Dashboard></Dashboard> */}
+      <Killswitch></Killswitch>
+      {/* <Footer></Footer> */}
     </div>
   )
 }

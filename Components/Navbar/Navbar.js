@@ -11,10 +11,10 @@ function Navbar() {
                     <Spirit></Spirit>
                 </LogoContainer>
                 <NavItemContainer>
-                    <NavItem text="Heat waves"></NavItem>
-                    <NavItem text="Heat waves"></NavItem>
-                    <NavItem text="Heat waves"></NavItem>
-                    <NavItem text="Heat waves"></NavItem> 
+                    <NavItem text="Home"></NavItem>
+                    <NavItem text="Dashboard"></NavItem>
+                    <NavItem text="KillSwitch"></NavItem>
+                    <NavItem text="Contact Me"></NavItem> 
                     <Login></Login>
                 </NavItemContainer>
           

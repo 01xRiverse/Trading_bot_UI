@@ -8,7 +8,7 @@ export const ButtonContainer=styled.div`
   justify-content: center;
   text-align: center;
   margin-right:15px;
-
+  
     `
 
 
@@ -48,7 +48,7 @@ letter-spacing: 0.1em;
   background-color: white;
   color:black;
   box-shadow:0px 0px 0px 4px #EEE inset;
-  text-decoration: none;
+  
 }
     span{
         transition: all 0.2s ease-out;

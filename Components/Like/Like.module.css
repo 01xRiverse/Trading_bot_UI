@@ -1,6 +1,8 @@
 
 .pos{
 	position:absolute;
+	position: fixed;
+	z-index: 999;
 	top: 40%;
 	right: 5px;
 	transform: rotate(-30deg);
